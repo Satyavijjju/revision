@@ -21,5 +21,9 @@ public class ArraySample {
         for (String b : name) {
             System.out.println(b);
         }
+        String[] str = {"satya","srihaas","Reyansh","Vijay"};
+        str[0]="Satya";
+        System.out.println(str[0]);
+       
     }
 }
